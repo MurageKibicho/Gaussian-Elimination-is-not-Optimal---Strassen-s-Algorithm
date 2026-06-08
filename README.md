@@ -3,7 +3,7 @@ Strassen’s algorithm introduced in the 1969 (presented in 1968) paper, _Gaussi
 
 We code Strassen’s matrix multiplication algorithm in C from the original 1969 paper and observe why compiler engineers rarely use the algorithm in practice on [LeetArxiv](https://leetarxiv.substack.com/p/why-compilers-rarely-use-strassens-algorithm)
 
-![Gaussian Elimination is not Optimal Paper Abstract](abstract.png)
+![Gaussian Elimination is not Optimal Paper Abstract](Abstract.png)
 
 
 We code the paper in C and test different cases.
